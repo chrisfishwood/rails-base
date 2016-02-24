@@ -1,3 +1,8 @@
+# Install
+
+* brew install qt
+* bundle install
+
 # Rails Base
 
 [![Build Status](https://semaphoreapp.com/api/v1/projects/31b68af8b073708a56e4e005bbcba2af4802816d/76140/shields_badge.png)](https://semaphoreapp.com/fs/rails-base)
