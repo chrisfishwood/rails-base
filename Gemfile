@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "2.2.4"
+ruby "2.3.0"
 
 gem "rails", "4.2.5.1"
 gem "pg"
@@ -87,7 +87,7 @@ group :development do
   gem "quiet_assets"
   gem "rails-erd"
   gem "slim-rails"
-  gem "spring"
+  gem "spring", "> 1.6.3"
   gem "spring-commands-rspec"
   gem "web-console", "~> 2.0"
 end
